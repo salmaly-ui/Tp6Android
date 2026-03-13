@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PizzaRecipes</string>
+    <string name="pizza_image_desc">Image de la pizza</string>
+    <string name="ingredients_label">Ingrédients :</string>
+    <string name="description_label">Description :</string>
+    <string name="steps_label">Étapes :</string>
+
+    <!-- Strings temporaires pour éviter les warnings -->
+    <string name="placeholder_title">Nom Pizza</string>
+    <string name="placeholder_meta">10 min • 12 €</string>
+</resources>
